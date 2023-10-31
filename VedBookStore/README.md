@@ -1,0 +1,1 @@
+﻿VedBookStore is a web app where user can buy and explore ancient Indian books. I have created this web app using asp.net 5.0.
