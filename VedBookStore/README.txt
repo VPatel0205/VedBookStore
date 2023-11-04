@@ -182,3 +182,5 @@ using VedBookStore.Models;"
 Created 4 files named ISP_Call.cs , SP_Call.cs , IUnitOfWork.cs and UnitOfWork.cs gave errors but resolved by adding specific 
 Using statement
 
+1556
+To make it accessible by project registered it Startup.cs in the configur services method and added respective using statements
