@@ -163,3 +163,10 @@ At first code was not added even after adding migration cloned again the whole p
 
 1400
 Update database 
+
+1524
+Created new folder in .DataAccess project called Repository and inside it IRepository folder added new interface file in IRepository
+folder
+
+1527
+Created IRepository.cs and added Repository.cs from the blackboard
