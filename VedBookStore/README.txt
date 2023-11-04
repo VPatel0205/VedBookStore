@@ -170,3 +170,11 @@ folder
 
 1527
 Created IRepository.cs and added Repository.cs from the blackboard
+
+1538
+Created new file name CategoryRepository.cs and ICategoryRepository.cs
+To solve the error added 
+"using VedBookStore.DataAccess.Data;
+using VedBookStore.DataAccess.Repository.IRepository;
+using VedBookStore.Models;"
+
