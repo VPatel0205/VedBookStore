@@ -178,3 +178,7 @@ To solve the error added
 using VedBookStore.DataAccess.Repository.IRepository;
 using VedBookStore.Models;"
 
+1552
+Created 4 files named ISP_Call.cs , SP_Call.cs , IUnitOfWork.cs and UnitOfWork.cs gave errors but resolved by adding specific 
+Using statement
+
