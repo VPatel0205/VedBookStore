@@ -141,3 +141,25 @@ Added the proper view files and delete the Data and Models folder
 
 1326
 Deleted the Controllers folder
+
+2023-11-04
+
+1317
+Cloned the old repository, NuGet package manager added new migration with name "AddDefaultMigration" but it gave me error 
+then from ppt I changed Defaul Project to VedBookStore.DataAccess
+
+1322
+Updated Darabase and review the changes in SQL SOE 
+
+1325
+Added the new class in .Models project and modified according to ppt
+
+1327
+Again added the migration. new migration file was empty and added the code in ApplicationDbContext and reran the migration to see
+the review changes
+
+1355
+At first code was not added even after adding migration cloned again the whole project and this time code worked 
+
+1400
+Update database 
