@@ -149,16 +149,18 @@ Cloned the old repository, NuGet package manager added new migration with name "
 then from ppt I changed Defaul Project to VedBookStore.DataAccess
 
 1322
-Updated Darabase and review the changes in SQL SOE 
+Updated Database and review the changes in SQL SOE 
 
 1325
-Added the new class in .Models project and modified according to ppt
+ran migration 20231104175243_AddDefaultMigration.cs
+Added the new class in .Models project and modified according to ppt 
 
 1327
-Again added the migration. new migration file was empty and added the code in ApplicationDbContext and reran the migration to see
-the review changes
+Again added the migration 20231104175537_AddCategory.cs ,new migration file was empty and added the code in 
+ApplicationDbContext and reran the migration to see the review changes
 
 1355
+Again ran migration 20231104175733_AddCategories.cs
 At first code was not added even after adding migration cloned again the whole project and this time code worked 
 
 1400
