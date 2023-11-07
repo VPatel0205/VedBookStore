@@ -25,7 +25,7 @@ namespace VedBookStore.DataAccess.Repository
                 objFromDb.Name = category.Name;
                 _db.SaveChanges();
             }
-            throw new NotImplementedException();
+            
         }
     }
 }

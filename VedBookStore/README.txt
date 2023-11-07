@@ -184,3 +184,34 @@ Using statement
 
 1556
 To make it accessible by project registered it Startup.cs in the configur services method and added respective using statements
+
+2023-11-06
+
+1750
+Added the new Controller CategoryController.cs and modified the code to use IUnitOfWork.cs and again added respective using statements
+
+1755
+Modified Index.cshtml file
+
+1800
+Created category.js and called it to Index.cshtml
+
+1807
+Applied code to Edit, Delete, and Create New Category buttons using upsert action 
+
+1815
+Created partial views _CreateAndBackToListButton.cshtml and _EditAndBackToListButton 
+
+1822
+Modified Upsert.cshtml
+
+1837
+Added delete functionality in category.js
+
+1705
+Had some error with onclick event to the delete function. Delete function was not working  (added space between onclick event and class)
+then it started working properly.
+
+1740
+Checked the application and tested Edit, Delete, and Create New Category   
+
