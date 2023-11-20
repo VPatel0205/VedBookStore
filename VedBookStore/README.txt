@@ -233,3 +233,6 @@ Added CoverType to NavBar and CoverType Controller with required methods and add
 
 1537
 Tested the application and run perferctly with update and delete function properly
+
+1540
+Created new product class in model file and added the reference to ApplicationDbContext.cs
