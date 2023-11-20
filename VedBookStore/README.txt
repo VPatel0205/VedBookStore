@@ -236,3 +236,6 @@ Tested the application and run perferctly with update and delete function proper
 
 1540
 Created new product class in model file and added the reference to ApplicationDbContext.cs
+
+1542
+Added the migration - 20231120204156_addProductToDb and update the database 
