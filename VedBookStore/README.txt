@@ -218,7 +218,12 @@ then it started working properly.
 Checked the application and tested Edit, Delete, and Create New Category   
 
 2023-11-20
+
 1416
 Cloned the project from the github and test the project to check for any errors
+
 1515
 Created new CoverType.cs in model folder
+
+1523
+Created new CoverTypeRepository and ICoverTypeRepository and added them to UnitOfWork and in IUnitOfWork and created migration - 20231120202424_AddCoverType
