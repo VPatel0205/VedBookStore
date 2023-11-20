@@ -245,3 +245,6 @@ Reviewed SOE and run the migration - 20231120204744_addValidationToProduct and u
 
 1552
 Created new ProductRepository and IProductRepository.cs and add necessary using statments
+
+1556
+Add product to UnitOfWork and IUnitOfWork and completed upto section 1 
