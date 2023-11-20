@@ -217,3 +217,6 @@ then it started working properly.
 1740
 Checked the application and tested Edit, Delete, and Create New Category   
 
+2023-11-20
+1416
+Cloned the project from the github and test the project to check for any errors
