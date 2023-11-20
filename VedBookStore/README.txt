@@ -239,3 +239,6 @@ Created new product class in model file and added the reference to ApplicationDb
 
 1542
 Added the migration - 20231120204156_addProductToDb and update the database 
+
+1545
+Reviewed SOE and run the migration - 20231120204744_addValidationToProduct and update database
