@@ -251,3 +251,6 @@ Add product to UnitOfWork and IUnitOfWork and completed upto section 1
 
 1607
 Added ProductController.cs to admin area and added new Product to viewModel in models project and installed the package Microsoft.AspNetCore.Mvc.ViewFeatures
+
+1617
+Added Index.cshtml to product in Admin area and created new product.js and added link to navigation and run the project to check for any errors
