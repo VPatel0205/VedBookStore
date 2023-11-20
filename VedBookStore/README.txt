@@ -227,3 +227,6 @@ Created new CoverType.cs in model folder
 
 1523
 Created new CoverTypeRepository and ICoverTypeRepository and added them to UnitOfWork and in IUnitOfWork and created migration - 20231120202424_AddCoverType
+
+1533
+Added CoverType to NavBar and CoverType Controller with required methods and added Index and Upsert file in area > Admin > Views > CoverType
