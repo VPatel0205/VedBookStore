@@ -230,3 +230,6 @@ Created new CoverTypeRepository and ICoverTypeRepository and added them to UnitO
 
 1533
 Added CoverType to NavBar and CoverType Controller with required methods and added Index and Upsert file in area > Admin > Views > CoverType
+
+1537
+Tested the application and run perferctly with update and delete function properly
