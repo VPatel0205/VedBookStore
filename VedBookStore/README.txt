@@ -248,3 +248,6 @@ Created new ProductRepository and IProductRepository.cs and add necessary using 
 
 1556
 Add product to UnitOfWork and IUnitOfWork and completed upto section 1 
+
+1607
+Added ProductController.cs to admin area and added new Product to viewModel in models project and installed the package Microsoft.AspNetCore.Mvc.ViewFeatures
