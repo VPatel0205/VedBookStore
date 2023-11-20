@@ -242,3 +242,6 @@ Added the migration - 20231120204156_addProductToDb and update the database
 
 1545
 Reviewed SOE and run the migration - 20231120204744_addValidationToProduct and update database
+
+1552
+Created new ProductRepository and IProductRepository.cs and add necessary using statments
