@@ -277,3 +277,15 @@ Started Part-4 , Added httppost method and delete method in productcontroller
 
 1905
 Added IUnitOfWork in Homecontroller.cs in customer view
+
+1920
+Modified columnnames in product.js
+
+1924
+Added scripts in Upset.cshtml 
+
+1927
+Added index view to show book catalogue in Index.cshtml in Views>Home
+
+1930
+Tested Application by adding product and image, output is perfect and product table is showing too.
