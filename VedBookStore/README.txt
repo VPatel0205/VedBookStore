@@ -254,3 +254,26 @@ Added ProductController.cs to admin area and added new Product to viewModel in m
 
 1617
 Added Index.cshtml to product in Admin area and created new product.js and added link to navigation and run the project to check for any errors
+
+2023-11-27
+1840
+Cloned Repository, Started Section - 3
+
+1842
+Added upsert view in Product , in admin area ,added code in it from provided file on blackboard
+
+1846
+uncommented upsert post method in productcontroller 
+
+1848
+modified foreignkey of CoverTypeId  and ran migration 20231127231510_modifyCoverTypeId.cs and updated database
+
+1853
+test application, ran as expected, clicked continue, Add new product is there.
+section -3 completed
+
+1903
+Started Part-4 , Added httppost method and delete method in productcontroller
+
+1905
+Added IUnitOfWork in Homecontroller.cs in customer view
