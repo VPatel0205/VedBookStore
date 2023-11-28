@@ -289,3 +289,6 @@ Added index view to show book catalogue in Index.cshtml in Views>Home
 
 1930
 Tested Application by adding product and image, output is perfect and product table is showing too.
+
+1937
+Modified Index.cshtml in index view of customer area by removing strike element , now output is perfectly running.
