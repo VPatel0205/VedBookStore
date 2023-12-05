@@ -292,3 +292,8 @@ Tested Application by adding product and image, output is perfect and product ta
 
 1937
 Modified Index.cshtml in index view of customer area by removing strike element , now output is perfectly running.
+
+2023-12-05
+
+1515
+Cloned repository and added 3 generated image, tested application , run successfully!
